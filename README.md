@@ -1,9 +1,11 @@
 
 # Bird Dash!
 
-<center>
-    <iframe src="https://drive.google.com/file/d/1klquYFJ6KWQEnSe6QPu2PQHoSJjIV64M/preview" width="640" height="480" allow="autoplay"></iframe>
-</center>
+<div align="center">
+    <p>
+        <img src="./docs/bard_dash.jpg" width="80%">
+    </p>
+</div>
 
 ## Description
 
