@@ -35,6 +35,12 @@ You also can play with a gamepad.
 - Cancel (in menu): `B` button
 - Pause: `B` button
 
+## Download
+
+You can download the game from the following link.
+
+https://drive.google.com/file/d/1sdPU2ucG4gM6qhs8m8jMM9vLmEFARmHW/view?usp=sharing
+
 ## Development environment
 
 - Unreal Engine 5.0.3
